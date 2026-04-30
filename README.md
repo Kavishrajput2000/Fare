@@ -40,7 +40,6 @@ npx create-next-app
 npm i mongoose
 npm i bcrypt
 
-
 npm install next-auth@beta
 npx auth secret
 
@@ -49,6 +48,9 @@ npm install lucide-react
 
 npm install axios
 npm install react-hot-toast
+
+npm install nodemailer
+npm install --save-dev @types/nodemailer
 
 <!-- features -->
 credentail login
